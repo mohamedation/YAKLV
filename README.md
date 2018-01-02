@@ -34,11 +34,14 @@ Create a readable summary of Kismet XML files
 ./yaklv [argument(s)] [path to log file(s) directory]
 ```
 
--h, --help          show help
+-h, --help
++ show help
 
--o {html,csv,both}  Output format (default: both)
+-o {html,csv,both}
++ Output format (default: both)
 
--n N                Prefix for the output file(s).(default: Kismet-Log-Summary)
+-n {prefix}
++ Prefix for the output file(s).(default: Kismet-Log-Summary)
 
 ### Credits (legacy):
 #### KLV v2
