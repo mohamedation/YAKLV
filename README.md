@@ -27,11 +27,11 @@ Create a readable summary of Kismet XML files
 
 ### Usage
 #### Requirements
-* **Python 2
-* **One or more Kismet .netxml log file(s)
+* Python 2
+* One or more Kismet .netxml log file(s)
 
 ```python
-./yaklv [arguments] [path to log file(s) directory]
+./yaklv [argument(s)] [path to log file(s) directory]
 ```
 
 -h, --help          show help
