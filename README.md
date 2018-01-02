@@ -35,7 +35,9 @@ Create a readable summary of Kismet XML files
 ```
 
 -h, --help          show help
+
 -o {html,csv,both}  Output format (default: both)
+
 -n N                Prefix for the output file(s).(default: Kismet-Log-Summary)
 
 ### Credits (legacy):
