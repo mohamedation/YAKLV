@@ -1,4 +1,4 @@
-```python
+
 ██╗   ██╗ █████╗ ██╗  ██╗██╗    ██╗   ██╗
 ╚██╗ ██╔╝██╔══██╗██║ ██╔╝██║    ██║   ██║
  ╚████╔╝ ███████║█████╔╝ ██║    ██║   ██║
@@ -6,7 +6,7 @@
    ██║   ██║  ██║██║  ██╗███████╗╚████╔╝
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═══╝
 Create a readable summary of Kismet XML files
-```
+
 <p align="left">
 <img src="https://img.shields.io/badge/Python-2-yellow.svg"></a>
 </p>
@@ -42,17 +42,12 @@ Create a readable summary of Kismet XML files
 
 ### Credits (legacy):
 #### KLV V3
-Website: http://klv.professionallyevil.com (offline)
-
-KLV v2 Tool Released > post https://goo.gl/fMHhyR
-
-Author:  Nathan Sweaney - nathan@sweaney.com
-
-Date:   July 9, 2013
++ Website: http://klv.professionallyevil.com (offline)
++ KLV v2 Tool Released > post https://goo.gl/fMHhyR
++ Author:  Nathan Sweaney - nathan@sweaney.com
++ Date:   July 9, 2013
 
 #### KLV v3
-Website: https://github.com/illegalPointer
-
-Author: @IllegalPointer
-
-Date: Jun, 1, 2015
++ Website: https://github.com/illegalPointer
++ Author: IllegalPointer
++ Date: Jun, 1, 2015
