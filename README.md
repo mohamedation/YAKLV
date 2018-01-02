@@ -5,7 +5,6 @@
   ╚██╔╝  ██╔══██║██╔═██╗ ██║    ╚██╗ ██╔╝
    ██║   ██║  ██║██║  ██╗███████╗╚████╔╝
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═══╝
-------------------------------------------------------
 Create a readable summary of Kismet XML files
 ```
 <p align="left">
@@ -24,7 +23,7 @@ Create a readable summary of Kismet XML files
 ### Improved HTML output
 + Dark style.
 + Improved overall HTML code.
-<img src="https://github.com/mohamedation/YAKLV/yaklv-html.png">
+<img src="https://github.com/mohamedation/YAKLV/blob/master/yaklv-html.png">
 
 ### Usage
 #### Requirements
