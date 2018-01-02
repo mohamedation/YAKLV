@@ -41,7 +41,7 @@ Create a readable summary of Kismet XML files
 -n N                Prefix for the output file(s).(default: Kismet-Log-Summary)
 
 ### Credits (legacy):
-#### KLV V3
+#### KLV v2
 + Website: http://klv.professionallyevil.com (offline)
 + KLV v2 Tool Released > post https://goo.gl/fMHhyR
 + Author:  Nathan Sweaney - nathan@sweaney.com
